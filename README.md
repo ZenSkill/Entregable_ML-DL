@@ -40,3 +40,10 @@ Entregable_ML-DL/
    ├── predicciones_visuales.png  
    └── comparacion_modelos.png
 ```
+---
+## Requisitos
+- tensorflow >= 2.10   
+- scikit-learn   
+- numpy   
+- matplotlib   
+- seaborn   
