@@ -22,20 +22,37 @@ El sistema carga el dataset MNIST (70,000 imágenes de 28×28 píxeles), entrena
 
 Entregable_ML-DL/
 │
+
 ├── preprocesamiento.py # Carga, normaliza y prepara el dataset MNIST
+
 ├── entrenamiento.py # Define, entrena y guarda el modelo CNN
+
 ├── clasificador.py # Evalúa el modelo y genera visualizaciones
+
 ├── graficos.py # Genera gráficas generales del dataset
+
 ├── comparar_modelos.py # Compara CNN vs KNN vs SVM vs K-Means
+
 │
+
 ├── modelo_digitos.keras # Modelo entrenado (generado al ejecutar)
+
 ├── arquitectura_cnn.xml # Arquitectura de la CNN en formato XML
+
 │
+
 └── graficos/ # Carpeta con todas las evidencias generadas
+
 ├── distribucion_clases.png
+
 ├── muestras_dataset.png
+
 ├── curva_accuracy.png
+
 ├── curva_perdida.png
+
 ├── matriz_confusion.png
+
 ├── predicciones_visuales.png
+
 └── comparacion_modelos.png
