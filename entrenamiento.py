@@ -1,6 +1,4 @@
-# entrenamiento.py
 # Define, entrena y guarda el modelo CNN
-# TecnoForms - Clasificación de Dígitos Manuscritos
 # By: Jhonatan Najarro
 
 import os

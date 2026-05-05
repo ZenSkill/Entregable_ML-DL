@@ -1,6 +1,4 @@
-# clasificador.py
 # Carga el modelo entrenado y clasifica dígitos nuevos
-# TecnoForms - Clasificación de Dígitos Manuscritos
 # By: Jhonatan Najarro
 
 import os

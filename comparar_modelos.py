@@ -1,6 +1,4 @@
-# comparar_modelos.py
-# Compara CNN vs KNN vs SVM e incluye datos ficticios y K-Means
-# TecnoForms - Clasificación de Dígitos Manuscritos
+# Comparar CNN vs KNN vs SVM e incluye datos ficticios y K-Means
 # By: Jhonatan Najarro
 
 import os

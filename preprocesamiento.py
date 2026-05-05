@@ -1,6 +1,4 @@
-# preprocesamiento.py
 # Carga y prepara las imágenes del dataset MNIST
-# TecnoForms - Clasificación de Dígitos Manuscritos
 # By: Jhonatan Najarro
 
 import os

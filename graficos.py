@@ -1,6 +1,4 @@
-# graficos.py
 # Genera visualizaciones generales del dataset
-# TecnoForms - Clasificación de Dígitos Manuscritos
 # By: Jhonatan Najarro
 
 import os
