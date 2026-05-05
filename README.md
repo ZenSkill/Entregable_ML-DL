@@ -19,7 +19,7 @@ El sistema carga el dataset MNIST (70,000 imágenes de 28×28 píxeles), entrena
 ---
 
 ## Estructura del Proyecto
-
+```
 Entregable_ML-DL/  
 │  
 ├── preprocesamiento.py # Carga, normaliza y prepara el dataset MNIST  
@@ -39,3 +39,4 @@ Entregable_ML-DL/
    ├── matriz_confusion.png  
    ├── predicciones_visuales.png  
    └── comparacion_modelos.png
+```
