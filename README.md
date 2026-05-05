@@ -22,7 +22,6 @@ El sistema carga el dataset MNIST (70,000 imágenes de 28×28 píxeles), entrena
 
 Entregable_ML-DL/
 │
-
 ├── preprocesamiento.py # Carga, normaliza y prepara el dataset MNIST
 
 ├── entrenamiento.py # Define, entrena y guarda el modelo CNN
